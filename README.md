@@ -17,7 +17,7 @@ Welcome to the documentation for the **Payment Solution** project. This reposito
 - [Regulatory Compliance](regulatory_compliance.md)
 - [Risk Assessment](risk_assessment.md)
 
-### Produc tDefinition;
+### Product Definition;
 - [Core Features Documentation](core_features_documentation.md)
 - [User Stories](user_stories.md)
 

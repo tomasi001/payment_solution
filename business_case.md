@@ -221,3 +221,5 @@ The proposed application meets a growing market need for contactless ordering an
 - Grand View Research (2021). *Restaurant Management Software Market Size & Share Report*.
 - Allied Market Research. *Mobile Payment Market Statistics – 2027*.
 - National Restaurant Association. *Restaurant Industry 2030 Report*.
+
+[Back to README](README.md) | [Next: Business Model Canvas](business_model_canvas.md)

@@ -266,3 +266,5 @@ The discovery workshops have been instrumental in uncovering critical areas that
 ## **End of Document**
 
 ---
+
+[Previous: Long-Term Strategy](long_term_strategy.md) | [Back to README](README.md) | [Next: Regulatory Compliance](regulatory_compliance.md)

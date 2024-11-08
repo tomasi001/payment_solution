@@ -289,3 +289,5 @@ The proposed AWS-based architecture provides a robust, scalable, and secure solu
 ---
 
 # **End of Technical Architecture Document**
+
+[Previous: User Stories](user_stories.md) | [Back to README](README.md) | [Next: Tech Stack Recommendations](tech_stack_recommendations.md)

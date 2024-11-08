@@ -285,4 +285,4 @@ By implementing the proposed solutions, the QR code-based restaurant ordering an
 
 ---
 
-[Previous: Scalability and Performance](scalability_and_performance.md) | [Back to README](README.md)
+[Previous: Integration and Interoperability](integration_and_interoperability.md) | [Back to README](README.md) | [Next: Security Considerations](security_considerations.md)

@@ -220,3 +220,6 @@ The outlined core features focus on creating a seamless and enhanced dining expe
 ---
 
 (Note: Features are subject to further refinement based on ongoing market research, user feedback, and technological advancements.)
+
+
+[Previous: Risk Assessment](risk_assessment.md) | [Back to README](README.md) | [Next: User Stories](user_stories.md)

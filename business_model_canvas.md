@@ -274,3 +274,5 @@
 This business model canvas outlines a comprehensive strategy for a QR code-based restaurant ordering and payment application. By addressing the needs of both diners and restaurants, the model emphasizes value creation through convenience, efficiency, and enhanced customer experiences. Key activities focus on technological development and integration, while revenue is generated primarily through transaction fees and value-added services. Strategic partnerships and a strong focus on customer relationships support sustainable growth and competitive advantage in the evolving hospitality industry.
 
 ---
+
+[Previous: Business Case](business_case.md) | [Back to README](README.md) | [Next: SWOT Analysis](swot_analysis.md)

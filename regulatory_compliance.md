@@ -378,3 +378,5 @@ Ensuring compliance with all relevant regulations is crucial for the successful 
 
 Compliance Officer  
 Date: [Current Date]
+
+[Previous: Discovery Workshops](discovery_workshops.md) | [Back to README](README.md) | [Next: Risk Assessment](risk_assessment.md)

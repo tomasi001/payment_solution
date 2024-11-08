@@ -431,3 +431,5 @@ This risk assessment has identified key risks associated with the QR code restau
 
 Risk Manager  
 Date: [Current Date]
+
+[Previous: Regulatory Compliance](regulatory_compliance.md) | [Back to README](README.md) | [Next: Core Features Documentation](core_features_documentation.md)

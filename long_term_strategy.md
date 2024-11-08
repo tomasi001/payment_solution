@@ -372,3 +372,5 @@ Our QR code-based restaurant ordering and payment application is poised to trans
 ---
 
 # **End of Strategic Plan**
+
+[Previous: SWOT Analysis](swot_analysis.md) | [Back to README](README.md) | [Next: Discovery Workshops](discovery_workshops.md)

@@ -283,3 +283,5 @@ The above user stories with specified acceptance criteria provide a clear roadma
 ---
 
 Thank you for your attention to these user stories. They are designed to guide the development process effectively and align with our strategic goals for the application.
+
+[Previous: Core Features Documentation](core_features_documentation.md) | [Back to README](README.md) | [Next: Architecture Definition](architecture_definition.md)
